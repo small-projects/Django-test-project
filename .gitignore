@@ -3,3 +3,4 @@
 *.exe
 venv/Lib/*
 venv/Scripts/*
+.idea/*
