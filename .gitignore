@@ -4,3 +4,5 @@
 venv/Lib/*
 venv/Scripts/*
 .idea/*
+*.sqlite3
+mysite/news/migrations/*
